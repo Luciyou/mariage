@@ -28,7 +28,7 @@ a:hover
 div
 {
 			text-align: center;
-			margin: 8x;
+			
 
 }
 
@@ -328,6 +328,7 @@ mark {
 			font-size:36px;
 			text-align:center;
 			padding: 10px;
+			margin: auto;
 			}
 .titre_h4
 		{	
