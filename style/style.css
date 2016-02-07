@@ -414,13 +414,14 @@ mark {
 #form
 {
     background-color: #d0c5e5;
-    height: 500px;
+    height: auto;
     padding-top: 20px;
     padding: auto;
     width: 600px;
     margin-left: auto;
   	margin-right: auto;
-  	margin-top: 10px; 
+  	margin-top: 60px; 
+  	margin-bottom: 60px;
 
 }
 input
