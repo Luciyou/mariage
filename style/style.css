@@ -365,7 +365,7 @@ mark {
 			font-family: 'Roboto Condensed', sans-serif;
 			background: url('images/background.png')center 0 repeat fixed;
 			font-family: 'Roboto Condensed', sans-serif;
-			box-shadow: 0 0 10px #555;
+			
 		
 		
 		}
@@ -481,7 +481,7 @@ input[type="radio"] {
 		{	height:650px;
 		  	background:url('images/eDLHCtzRR0yfFtU0BQar_sylwiabartyzel_themap.jpg') center 0 no-repeat fixed;
 		  	font-family: 'Roboto Condensed', sans-serif;
-		  	padding:10px;
+		  	margin:30px;
 		 
 		}
 
