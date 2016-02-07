@@ -29,7 +29,6 @@ div
 {
 			text-align: center;
 			
-
 }
 
 
@@ -39,10 +38,8 @@ div
 header
 {
 	  position: fixed;
-	  height: 64px;
 	  width: 100%;
 	  z-index: 10;
-	  padding-right:5px;
 	  display:block;
 
 }
@@ -50,7 +47,7 @@ header
 header a
   {
 	    color:#615582;
-	    font-size:26px;
+	    font-size:24px;
 	    padding:2px;
   
   }
@@ -66,7 +63,7 @@ header a
 	     position:absolute;
 	     right:16px;
 	     margin:5px 0 0 0;
-	     font-size:16px
+	     font-size:15px
 	}
 	
 		.header_social a {
@@ -88,9 +85,9 @@ header a
 				content:"";
 				position: absolute;
 				width:2px;
-				height:30px;
+				height:24px;
 				transform:rotate(17deg);
-				margin:6px 0 0 14px;
+				margin:12px 0 0 14px;
 				background:white;
 			}
 				.header_social a:last-child:after{
@@ -279,13 +276,6 @@ mark {
 
 			}
 
-#separateur {
-			border-top: 2px dashed grey;
-			margin-top:50px;
-			margin-right: 100px;
-			margin-left: 100px;
-
-			}
 
 
 #invitation
@@ -404,11 +394,7 @@ mark {
 		 
 		}
 
-		/*# Liste mariage*/
-#liste-mariage
-{
-    margin-bottom: 30px
-}
+
 
 
 /*# Formulaire*/
