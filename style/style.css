@@ -288,6 +288,11 @@ mark {
 		
 				 
 			}
+@media (min-width: 768px) {
+#invitation {
+    width: 750px;
+}
+}
 		
 #titre_h1
 			{color:white;
